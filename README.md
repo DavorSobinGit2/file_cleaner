@@ -1,0 +1,2 @@
+3/17/2024 - Started working on this project to make my life easier when it comes to organizing files on my desktop. For now its not the best but its a start. It requires a lot more editing and touching up to do. 
+In the future: I need to somehow clean up lines 28 to 41, right now it is a huge mess and requires some cleaning. Maybe incorporate a hashmap/dictionary and see what we can do from there.
